@@ -1,6 +1,4 @@
 Bundle-Name: acapi
 Bundle-SymbolicName: acapi
 Bundle-Version: 1.0.0
-Liferay-Configuration-Path: /configuration
-
 Export-Package: android.os,android.util,javax.annotation.meta,org.conscrypt
